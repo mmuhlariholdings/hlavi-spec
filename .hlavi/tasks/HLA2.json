@@ -1,0 +1,13 @@
+{
+  "id": "HLA2",
+  "title": "Create Board Schema",
+  "description": null,
+  "status": "new",
+  "acceptance_criteria": [],
+  "created_at": "2026-03-02T04:35:15.743Z",
+  "updated_at": "2026-03-02T04:35:15.743Z",
+  "agent_assigned": false,
+  "rejection_reason": null,
+  "start_date": "2026-03-02T00:00:00.000Z",
+  "end_date": null
+}
