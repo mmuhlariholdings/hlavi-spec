@@ -1,11 +1,11 @@
 {
   "id": "HLA3",
-  "title": "Create Field to Determine Human vs Agent Tasks",
+  "title": "Create Human vs Agent Task Field",
   "description": "Create a field in the task schema that makes it easy to determine which tasks are human tasks and which are agent tasks.",
   "status": "new",
   "acceptance_criteria": [],
   "created_at": "2026-03-02T04:39:27.945Z",
-  "updated_at": "2026-03-02T04:39:27.945Z",
+  "updated_at": "2026-03-02T04:42:00.241Z",
   "agent_assigned": false,
   "rejection_reason": null,
   "start_date": null,
