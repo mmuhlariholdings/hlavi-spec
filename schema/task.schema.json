@@ -33,5 +33,6 @@
     "agent_assigned": false,
     "rejection_reason": null,
     "start_date": "2026-02-27T00:00:00.000Z",
-    "end_date": "2026-03-06T00:00:00.000Z"
+    "end_date": "2026-03-06T00:00:00.000Z",
+    "blocks": []
 }
