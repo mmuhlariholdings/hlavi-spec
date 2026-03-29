@@ -36,5 +36,6 @@
     "end_date": "2026-03-06T00:00:00.000Z",
     "parent": null,
     "blocks": [],
+    "effort": null,
     "rank": 0
 }
