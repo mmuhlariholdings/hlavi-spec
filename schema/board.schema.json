@@ -1,4 +1,19 @@
 {
     "hlavi_spec_version": "0.0.1",
-    "kind": "board"
+    "kind": "board",
+    "config": {
+        "name": "Default Board",
+        "model": null,
+        "columns": [
+            { "name": "New", "status": "new", "agent_enabled": false, "agent_mode": null },
+            { "name": "Open", "status": "open", "agent_enabled": false, "agent_mode": null },
+            { "name": "In Progress", "status": "inprogress", "agent_enabled": true, "agent_mode": "unattended" },
+            { "name": "Review", "status": "review", "agent_enabled": false, "agent_mode": null },
+            { "name": "Done", "status": "done", "agent_enabled": false, "agent_mode": null }
+        ]
+    },
+    "tasks": {
+        "HLA1": "done"
+    },
+    "next_task_number": 2
 }
